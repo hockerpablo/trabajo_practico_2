@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    
+  
+}
+
+nav{
+
+   margin: 50px 50px 50px 50px;
+    display: flex;
+justify-content: space-between;
+font-family: 'press start 2p';
+align-items: center;
+background-color: bisque;
+
+
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+/*h4{
+    opacity: 0.3;
+    position: relative;
+    left: 105px;
+    top: 104px;
+}*/
